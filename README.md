@@ -1,12 +1,12 @@
 # learn_react
 
-my react Learning process
+React Learning process
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/catiaspsilva/README-template">
-    <img src="images/gators.jpg" alt="Logo" width="150" height="150">
+  <a href="">
+    <img src="/src/img/React-icon.svg.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">My react Learning process</h3>
@@ -84,3 +84,20 @@ I render my first react component
   ```
 
 ## A commponent can not return more than one element in react
+
+
+## Day 02
+
+- Learn about props
+ ```sh
+interface Props{
+    items: string[];
+    heading: string;
+    }
+```
+- Learn about hook state
+ ```sh
+  const [selectedIndex , setSelectedIndex] = useState(-1);
+  ```
+  - Video pause at 00:50:00 
+  - Taking some rest @ Mon jun 5 0:46am
