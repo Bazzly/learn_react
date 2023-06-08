@@ -101,3 +101,12 @@ interface Props{
   ```
   - Video pause at 00:50:00 
   - Taking some rest @ Mon jun 5 0:46am
+
+
+  ## Day 02
+
+    - Video RECAP FROM 00:10:00  - 00:50:00
+  - RESUME @ THURSDAY jun 8 08:46PM
+  - reusable components
+    - Video pause at 01:00:00 
+      - Taking some rest @ Mon jun 5 10:41pm
